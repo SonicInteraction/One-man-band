@@ -3,7 +3,7 @@
 
 Below is a list of files and a precis of their functionality
 
-* amplitude-frequency-analysis-time-warp-and save results.m *
+*amplitude-frequency-analysis-time-warp-and save results.m*
 
  History
 …d-save-results.
