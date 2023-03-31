@@ -3,6 +3,16 @@
 
 __**Below is a list of files and a precis of their functionality**__
 
+__Setup__
+
+- load files
+- determine lengths
+- load all into array
+- audition
+- load any previous time warped files
+- mix (normalise)
+- plot a waterfall spectrogram
+
 *amplitude-frequency-analysis-time-warp-and save results.m*
 - Calculate FFT
 - plot
