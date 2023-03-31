@@ -1,7 +1,7 @@
 # One-man-band
 ## Audio analysis, feature extraction, pitch estimation and automated time stretching and pitch shifting in matlab
 
-<u>**Below is a list of files and a precis of their functionality**</u>
+::**Below is a list of files and a precis of their functionality**::
 
 *amplitude-frequency-analysis-time-warp-and save results.m*
 - Calculate FFT
