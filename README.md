@@ -3,8 +3,7 @@
 
 __**Below is a list of files and a precis of their functionality**__
 
-__Setup__
-
+*setup.m*
 - load files
 - determine lengths
 - load all into array
@@ -12,6 +11,16 @@ __Setup__
 - load any previous time warped files
 - mix (normalise)
 - plot a waterfall spectrogram
+
+*pre-processing.m*
+- band pass filter
+- compression
+- amplitude plot for comparison
+
+*pitch-detection.m*
+- autocorrelation
+- some pre-processing
+- ***Needs tidying up***
 
 *amplitude-frequency-analysis-time-warp-and save results.m*
 - Calculate FFT
