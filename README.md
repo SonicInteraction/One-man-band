@@ -1,8 +1,8 @@
 # One-man-band
-Audio analysis, feature extraction, pitch estimation and automated time stretching and pitch shifting in matlab
+## Audio analysis, feature extraction, pitch estimation and automated time stretching and pitch shifting in matlab
 
 
-## amplitude-frequency-analysis-time-warp-and save results.m
+### amplitude-frequency-analysis-time-warp-and save results.m
 
  History
 …d-save-results.
